@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4C538EE0-2EE1-4A56-9745-A72F93C54C56}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToEntitiesApp", "LinqToEntitiesApp\LinqToEntitiesApp.csproj", "{F294A1A8-BD16-4A5F-947A-68DC277E4A0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F294A1A8-BD16-4A5F-947A-68DC277E4A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F294A1A8-BD16-4A5F-947A-68DC277E4A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F294A1A8-BD16-4A5F-947A-68DC277E4A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F294A1A8-BD16-4A5F-947A-68DC277E4A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83524E9E-1803-4742-B833-A67524A10169}
+	EndGlobalSection
+EndGlobal
